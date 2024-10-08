@@ -12,3 +12,6 @@ console.log(num+num1);
 let num2=10;
 let num3=22;
 console.log(num2-num3);
+
+
+
