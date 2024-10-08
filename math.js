@@ -20,3 +20,16 @@ console.log("Discount");}
 else
 {console.log("Not Discount");}
 
+
+//Task-3:
+//Check (male)&(age=224)
+let age=45;
+let gender='male';
+if(gender==="male"){
+    if(age>=22){
+        console.log("able to marry");
+
+    }
+}
+else
+console.log("Unable to marry");
