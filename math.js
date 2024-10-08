@@ -33,3 +33,26 @@ if(gender==="male"){
 }
 else
 console.log("Unable to marry");
+
+// vowels
+let char="a";
+switch (char){
+    case "a":
+        console.log("it is vowel");
+        break;
+    case "e":
+        console.log("vowel");
+        break;
+    case "i":
+        console.log("vowel");
+        break;
+    case "o":
+        console.log("vowel");
+        break;
+    case "u":
+        console.log("vowel");
+        break;
+    default:
+        console.log("It's not a vowel");
+        break; 
+}
